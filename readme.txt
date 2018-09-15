@@ -1,6 +1,6 @@
-== Millionaire's Digest Widgets ===
+== Millionaire's Digest Profile Progress Bar ===
 Contributors: K&L
-Tags: Millionaire's Digest, Widgets
+Tags: Millionaire's Digest, Profile, Progress Bar
 Requires at least: 4.5.7
 Tested up to: 4.9.1
 Stable tag: 1.0.0
@@ -10,7 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Add widgets specifically created for the Millionaire's Digest made by the Founder & CEO of the Millionaire's Digest
+Display a progress bar based on the number of completed profile fields and actions as a percent sign
+ with special thanks and all credits going to Danbp for the original plugin.
 
 == Installation ==
 
